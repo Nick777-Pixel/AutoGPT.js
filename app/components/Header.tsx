@@ -15,7 +15,7 @@ export function Header() {
       >
         <a href="#" className="-m-1.5 p-1.5">
           <span className="h-8 w-auto text-xl font-semibold underline underline-offset-2">
-            AutoGPT.js
+            AutoGPT
           </span>
         </a>
         <div className="flex flex-1 justify-end">
@@ -44,7 +44,7 @@ export function Header() {
             </div>
             <a href="#" className="-m-1.5 p-1.5">
               <span className="h-8 w-auto text-xl font-semibold underline underline-offset-2">
-                AutoGPT.js
+                AutoGPT
               </span>
             </a>
             <div className="flex flex-1 justify-end">
